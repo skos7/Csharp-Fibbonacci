@@ -1,0 +1,14 @@
+D:\Programiranje_C#\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+D:\Programiranje_C#\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+D:\Programiranje_C#\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+D:\Programiranje_C#\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+D:\Programiranje_C#\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+D:\Programiranje_C#\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+D:\Programiranje_C#\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.AssemblyReference.cache
+D:\Programiranje_C#\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programiranje_C#\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+D:\Programiranje_C#\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+D:\Programiranje_C#\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+D:\Programiranje_C#\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+D:\Programiranje_C#\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+D:\Programiranje_C#\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache

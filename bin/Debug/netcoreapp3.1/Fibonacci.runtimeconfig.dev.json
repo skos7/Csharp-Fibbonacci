@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sanjokula\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sanjokula\\.nuget\\packages"
+    ]
+  }
+}

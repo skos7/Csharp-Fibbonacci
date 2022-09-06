@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yqdxsMQvEIC4TIH5VT+izDak4fybXImgUiXnfANU4SHrHGF29zMhkuhu3YDZJMQplOo3fCP+/3DctH9QT/5RRA==",
+  "success": true,
+  "projectFilePath": "D:\\Programiranje_C#\\Fibonacci\\Fibonacci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sanjokula\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
